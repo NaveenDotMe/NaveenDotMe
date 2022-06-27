@@ -16,12 +16,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 📫 How to reach me:<p align="left">
-<a href="https://twitter.com/Masive_Naveen"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__NaveenPabhath__" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/naveen-pabhath-0a8086219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
-<a href="https://www.facebook.com/naveen.mahagodage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Dilshan Jayarathne" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_naveen_mg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____NAVEEN_____" height="30" width="40" /></a>
-</p>
 
 - 😄 Pronouns: he/him/his
 
